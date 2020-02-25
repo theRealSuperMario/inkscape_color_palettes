@@ -1,0 +1,33 @@
+GIMP Palette
+Name: Custom Palette 5 Colors
+
+#
+220   0   0 primary 0 - red       #dc0000
+255  85  85 primary 0 + 2         #FF5555
+255  38  38 primary 0 + 1         #FF2626
+172   0   0 primary 0 - 1         #AC0000
+121   0   0 primary 0 - 2         #790000
+
+255 255  62 primary 1 - yellow    #FFFF3E
+255 255 113 primary 1 + 2         #FFFF71
+255 255  86 primary 1 + 1         #FFFF56
+240 240  30 primary 1 - 1         #F0F01E
+195 195  16 primary 1 - 1         #C3C310
+
+228 152 255 primary 2 - purple    #E498FF
+216 108 255 primary 2 + 2         #D86CFF
+243 210 255 primary 2 + 1         #F3D2FF
+205  67 255 primary 2 + -1        #CD43FF
+191  21 252 primary 2 + -2        #BF15FC
+
+  0  10 200 primary 3 - blue      #000AC8
+ 68  77 254 primary 3 + 2         #444DFE
+ 16  28 255 primary 3 + 1         #101CFF
+  1   8 146 primary 3 - 1         #010892
+  2   6  91 primary 3 - 2         #02065B
+
+153 222   0 primary 4 - green     #99DE00 
+201 248  96 primary 4 + 2         #C9F860 
+182 243  48 primary 4 + 1         #B6F330 
+106 154   0 primary 4 - 1         #6A9A00 
+ 48  69   0 primary 4 - 2         #304500 
